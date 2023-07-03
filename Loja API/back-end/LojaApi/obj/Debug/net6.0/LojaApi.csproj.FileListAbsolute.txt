@@ -1,0 +1,149 @@
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/appsettings.Development.json
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/appsettings.json
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/LojaApi
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/LojaApi.deps.json
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/LojaApi.runtimeconfig.json
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/LojaApi.dll
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/LojaApi.pdb
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/Humanizer.dll
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/Mono.TextTemplating.dll
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/System.CodeDom.dll
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/System.Text.Json.dll
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/obj/Debug/net6.0/LojaApi.csproj.AssemblyReference.cache
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/obj/Debug/net6.0/LojaApi.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/obj/Debug/net6.0/LojaApi.AssemblyInfoInputs.cache
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/obj/Debug/net6.0/LojaApi.AssemblyInfo.cs
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/obj/Debug/net6.0/LojaApi.csproj.CoreCompileInputs.cache
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/obj/Debug/net6.0/LojaApi.MvcApplicationPartsAssemblyInfo.cs
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/obj/Debug/net6.0/LojaApi.MvcApplicationPartsAssemblyInfo.cache
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/obj/Debug/net6.0/staticwebassets.build.json
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/obj/Debug/net6.0/staticwebassets.development.json
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/obj/Debug/net6.0/scopedcss/bundle/LojaApi.styles.css
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/obj/Debug/net6.0/LojaApi.csproj.CopyComplete
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/obj/Debug/net6.0/LojaApi.dll
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/obj/Debug/net6.0/refint/LojaApi.dll
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/obj/Debug/net6.0/LojaApi.pdb
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/obj/Debug/net6.0/LojaApi.genruntimeconfig.cache
+/home/leandro/Desktop/video-aulas/dotnetapi-htmlcssjs/back-end/LojaApi/obj/Debug/net6.0/ref/LojaApi.dll
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\appsettings.Development.json
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\appsettings.json
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\LojaApi.exe
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\LojaApi.deps.json
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\LojaApi.runtimeconfig.json
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\LojaApi.dll
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\ref\LojaApi.dll
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\LojaApi.pdb
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\Humanizer.dll
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\System.CodeDom.dll
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\System.Text.Json.dll
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\obj\Debug\net6.0\LojaApi.csproj.AssemblyReference.cache
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\obj\Debug\net6.0\LojaApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\obj\Debug\net6.0\LojaApi.AssemblyInfoInputs.cache
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\obj\Debug\net6.0\LojaApi.AssemblyInfo.cs
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\obj\Debug\net6.0\LojaApi.csproj.CoreCompileInputs.cache
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\obj\Debug\net6.0\LojaApi.MvcApplicationPartsAssemblyInfo.cs
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\obj\Debug\net6.0\LojaApi.MvcApplicationPartsAssemblyInfo.cache
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\obj\Debug\net6.0\staticwebassets.build.json
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\obj\Debug\net6.0\staticwebassets.development.json
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\obj\Debug\net6.0\scopedcss\bundle\LojaApi.styles.css
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\obj\Debug\net6.0\LojaApi.csproj.CopyComplete
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\obj\Debug\net6.0\LojaApi.dll
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\obj\Debug\net6.0\ref\LojaApi.dll
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\obj\Debug\net6.0\LojaApi.pdb
+F:\GTI\2°Sem\LingProgr\AulaRevisão\Lolja\back-end\LojaApi\obj\Debug\net6.0\LojaApi.genruntimeconfig.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\appsettings.json
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\LojaApi.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\LojaApi.deps.json
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\LojaApi.runtimeconfig.json
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\LojaApi.dll
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\LojaApi.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\obj\Debug\net6.0\LojaApi.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\obj\Debug\net6.0\LojaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\obj\Debug\net6.0\LojaApi.AssemblyInfoInputs.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\obj\Debug\net6.0\LojaApi.AssemblyInfo.cs
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\obj\Debug\net6.0\LojaApi.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\obj\Debug\net6.0\LojaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\obj\Debug\net6.0\LojaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\obj\Debug\net6.0\scopedcss\bundle\LojaApi.styles.css
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\obj\Debug\net6.0\LojaApi.csproj.CopyComplete
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\obj\Debug\net6.0\LojaApi.dll
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\obj\Debug\net6.0\refint\LojaApi.dll
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\obj\Debug\net6.0\LojaApi.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\obj\Debug\net6.0\LojaApi.genruntimeconfig.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\obj\Debug\net6.0\ref\LojaApi.dll
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\obj\Debug\net6.0\staticwebassets\msbuild.LojaApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\obj\Debug\net6.0\staticwebassets\msbuild.build.LojaApi.props
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LojaApi.props
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LojaApi.props
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\2º GTI\Resolvidos\Linguagem de Programação\Lolja\back-end\LojaApi\obj\Debug\net6.0\staticwebassets.pack.json
